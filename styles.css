@@ -253,3 +253,19 @@ tr > th{
   vertical-align: middle;
 }
 
+.max-width-25 {
+  max-width: 25%;
+}
+
+.margin-left-15 {
+  margin-left: 15%;
+}
+
+.youtubeLink{
+  text-decoration: none;
+  color: inherit;
+}
+
+.youtubeLink:hover {
+  text-decoration: underline;
+}
